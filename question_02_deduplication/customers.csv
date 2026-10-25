@@ -1,0 +1,5 @@
+record_id,customer_id,city,updated_at
+101,C001,Hyderabad,2026-10-20
+102,C001,Chennai,2026-10-22
+103,C001,Bengaluru,2026-10-24
+104,C002,Mumbai,2026-10-23
